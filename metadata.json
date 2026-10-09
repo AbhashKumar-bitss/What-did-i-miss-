@@ -1,0 +1,6 @@
+{
+  "name": "What Did I Miss? — Unread AI Assistant",
+  "description": "Privacy-focused, local-first dashboard that digests unread chat messages across Slack, Telegram, WhatsApp, and Discord into executive briefs, action items, decisions, and urgent alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
